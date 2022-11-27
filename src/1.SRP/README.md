@@ -37,3 +37,7 @@
 테스트가 통과되면 성공한 것입니다.
 
 단일 책임 원칙 연습 문제는 01~05번입니다.
+
+## Thanks to
+
+SRP 연습 문제는 [thinking-in-react](https://beta.reactjs.org/learn/thinking-in-react)를 바탕으로 만들어졌습니다.

@@ -15,7 +15,9 @@ yarn s-01
 
 ## How to take the tutorial
 
-이 튜토리얼은 SOLID 원칙별로 나누어져 있습니다. 각 원칙의 연습 문제에 대한 설명은 해당 디렉토리의 `README.md`에서 확인할 수 있습니다. 연습 문제는 `*.problem.tsx`와 `*.solution.tsx`로 구성되어 있습니다.
+이 튜토리얼은 SOLID 원칙별로 나누어져 있습니다. 각 원칙의 연습 문제에 대한 설명은 해당 디렉토리의 `README.md`에서 확인할 수 있습니다.
+
+연습 문제는 `*.problem.tsx`와 `*.solution.tsx`로 구성되어 있습니다.
 
 연습 문제를 푸는 방법:
 
