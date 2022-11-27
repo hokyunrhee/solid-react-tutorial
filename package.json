@@ -6,16 +6,16 @@
   "license": "MIT",
   "scripts": {
     "test": "react-scripts test",
-    "e-01": "react-scripts test src/1.SRP/01.product-row.problem.test.tsx",
-    "s-01": "react-scripts test src/1.SRP/01.product-row.solution.test.tsx",
-    "e-02": "react-scripts test src/1.SRP/02.product-category-row.problem.test.tsx",
-    "s-02": "react-scripts test src/1.SRP/02.product-category-row.solution.test.tsx",
-    "e-03": "react-scripts test src/1.SRP/03.product-table.problem.test.tsx",
-    "s-03": "react-scripts test src/1.SRP/03.product-table.solution.test.tsx",
-    "e-04": "react-scripts test src/1.SRP/04.search-bar.problem.test.tsx",
-    "s-04": "react-scripts test src/1.SRP/04.search-bar.solution.test.tsx",
-    "e-05": "react-scripts test src/1.SRP/05.filterable-product-table.problem.test.tsx",
-    "s-05": "react-scripts test src/1.SRP/05.filterable-product-table.solution.test.tsx"
+    "srp-e-01": "react-scripts test src/1.SRP/01.product-row.problem.test.tsx",
+    "srp-s-01": "react-scripts test src/1.SRP/01.product-row.solution.test.tsx",
+    "srp-e-02": "react-scripts test src/1.SRP/02.product-category-row.problem.test.tsx",
+    "srp-s-02": "react-scripts test src/1.SRP/02.product-category-row.solution.test.tsx",
+    "srp-e-03": "react-scripts test src/1.SRP/03.product-table.problem.test.tsx",
+    "srp-s-03": "react-scripts test src/1.SRP/03.product-table.solution.test.tsx",
+    "srp-e-04": "react-scripts test src/1.SRP/04.search-bar.problem.test.tsx",
+    "srp-s-04": "react-scripts test src/1.SRP/04.search-bar.solution.test.tsx",
+    "srp-e-05": "react-scripts test src/1.SRP/05.filterable-product-table.problem.test.tsx",
+    "srp-s-05": "react-scripts test src/1.SRP/05.filterable-product-table.solution.test.tsx"
   },
   "dependencies": {
     "react": "^18.2.0",
