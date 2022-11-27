@@ -1,0 +1,48 @@
+{
+  "name": "solid-react-tutorial",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ken Rhee <hokyun.rhee@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "react-scripts test",
+    "e-01": "react-scripts test src/1.SRP/01.product-row.problem.test.tsx",
+    "s-01": "react-scripts test src/1.SRP/01.product-row.solution.test.tsx",
+    "e-02": "react-scripts test src/1.SRP/02.product-category-row.problem.test.tsx",
+    "s-02": "react-scripts test src/1.SRP/02.product-category-row.solution.test.tsx",
+    "e-03": "react-scripts test src/1.SRP/03.product-table.problem.test.tsx",
+    "s-03": "react-scripts test src/1.SRP/03.product-table.solution.test.tsx",
+    "e-04": "react-scripts test src/1.SRP/04.search-bar.problem.test.tsx",
+    "s-04": "react-scripts test src/1.SRP/04.search-bar.solution.test.tsx",
+    "e-05": "react-scripts test src/1.SRP/05.filterable-product-table.problem.test.tsx",
+    "s-05": "react-scripts test src/1.SRP/05.filterable-product-table.solution.test.tsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.3",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.3"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}
