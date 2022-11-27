@@ -15,7 +15,9 @@
     "srp-e-04": "react-scripts test src/1.SRP/04.search-bar.problem.test.tsx",
     "srp-s-04": "react-scripts test src/1.SRP/04.search-bar.solution.test.tsx",
     "srp-e-05": "react-scripts test src/1.SRP/05.filterable-product-table.problem.test.tsx",
-    "srp-s-05": "react-scripts test src/1.SRP/05.filterable-product-table.solution.test.tsx"
+    "srp-s-05": "react-scripts test src/1.SRP/05.filterable-product-table.solution.test.tsx",
+    "ocp-e-01": "react-scripts test src/2.OCP/01.button.problem.test.tsx",
+    "ocp-s-01": "react-scripts test src/2.OCP/01.button.solution.test.tsx"
   },
   "dependencies": {
     "react": "^18.2.0",
